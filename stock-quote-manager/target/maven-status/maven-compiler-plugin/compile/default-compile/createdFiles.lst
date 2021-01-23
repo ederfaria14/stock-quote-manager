@@ -1,0 +1,14 @@
+com\ederfaria\stockquotemanager\controller\CacheManagerController.class
+com\ederfaria\stockquotemanager\model\service\CacheManagerService$1.class
+com\ederfaria\stockquotemanager\retrofit\StockManagerApiInterface$IStockManagerApiInterface.class
+com\ederfaria\stockquotemanager\retrofit\StockManagerApiController.class
+com\ederfaria\stockquotemanager\retrofit\Api.class
+com\ederfaria\stockquotemanager\retrofit\StockManagerApiController$1.class
+com\ederfaria\stockquotemanager\controller\StockQuoteController.class
+com\ederfaria\stockquotemanager\model\service\CacheManagerService.class
+com\ederfaria\stockquotemanager\retrofit\Identification.class
+com\ederfaria\stockquotemanager\retrofit\StockManagerApiInterface.class
+com\ederfaria\stockquotemanager\retrofit\StockManager.class
+com\ederfaria\stockquotemanager\model\entity\StockQuote.class
+com\ederfaria\stockquotemanager\model\repository\StockQuoteRepository.class
+com\ederfaria\stockquotemanager\BasicApplication.class
